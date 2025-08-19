@@ -15,19 +15,19 @@ language:
 <p align="left">
   <a href="">
     <img
-      src="https://img.shields.io/badge/MultiTalk-Website-0A66C2?logo=safari&logoColor=white" style="display: inline-block; vertical-align: middle;"
+      src="https://img.shields.io/badge/InfiniteTalk-Website-0A66C2?logo=safari&logoColor=white" style="display: inline-block; vertical-align: middle;"
       alt="InfiniteTalk Website"
     />
   </a>
   <a href="">
     <img
-      src="https://img.shields.io/badge/MultiTalk-Paper-red?logo=arxiv&logoColor=red" style="display: inline-block; vertical-align: middle;"
+      src="https://img.shields.io/badge/InfiniteTalk-Paper-red?logo=arxiv&logoColor=red" style="display: inline-block; vertical-align: middle;"
       alt="InfiniteTalk Paper on arXiv"
     />
   </a>
   <a href="https://github.com/MeiGen-AI/InfiniteTalk" target="_blank" style="margin: 2px;">
       <img 
-        alt="Github" src="https://img.shields.io/badge/MultiTalk-Codebase-536af5?color=536af5&logo=github" style="display: inline-block; vertical-align: middle;"
+        alt="Github" src="https://img.shields.io/badge/InfiniteTalk-Codebase-536af5?color=536af5&logo=github" style="display: inline-block; vertical-align: middle;"
         alt="InfiniteTalk Codebase"
       />
   </a>
